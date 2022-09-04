@@ -1,7 +1,3 @@
-# This is a h1 example from Chunxin's test
-## This is a h2 example from Chunxin's test
-###### This is a h6 example from Chunxin's test
-
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
